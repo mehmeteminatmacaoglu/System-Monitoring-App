@@ -1,0 +1,12 @@
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\bin\Release\SystemMonitoringAppWF.exe.config
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\bin\Release\SystemMonitoringAppWF.exe
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\bin\Release\SystemMonitoringAppWF.pdb
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.csproj.AssemblyReference.cache
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.Main.resources
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.Properties.Resources.resources
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.csproj.GenerateResource.cache
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.csproj.CoreCompileInputs.cache
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMo.128D1C57.Up2Date
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.exe
+C:\Users\Atmacaoğlu\source\repos\SystemMonitoringAppWF\SystemMonitoringAppWF\obj\Release\SystemMonitoringAppWF.pdb
