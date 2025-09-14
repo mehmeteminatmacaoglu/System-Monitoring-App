@@ -1,6 +1,6 @@
 # System Monitoring App
 
-This project is a simple application developed to monitor computer system resources in real time. With its user-friendly interface, you can easily track CPU, RAM, and Disk usage. The application also offers Light and Dark Mode support.
+This project is a simple application developed to monitor computer system resources in real time. With its user-friendly interface, you can easily track GPU, CPU, RAM, Disk usage. The application also offers Light and Dark Mode support.
 
 ---
 
