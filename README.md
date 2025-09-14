@@ -20,8 +20,8 @@ This project is a simple application developed to monitor computer system resour
 ## Technologies Used
 
 - C#  
-- .NET (specify the version you used)  
-- (WPF / WinForms – specify your UI framework)  
+- .NET 8.0
+- WinForms  
 
 ---
 
