@@ -34,10 +34,10 @@ This project is a simple application developed to monitor computer system resour
    cd System-Monitoring-App
    ```
 3. Build and run the project:
-  ```bash
-  dotnet build
-  dotnet run
-  ```
+   ```bash
+   dotnet build
+   dotnet run
+   ```
 
 ---
 
